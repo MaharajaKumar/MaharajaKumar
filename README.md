@@ -47,66 +47,66 @@ My approach is simple: understand the problem, design a practical solution, and 
 **Mobile**
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+  <a href="https://reactnative.dev/docs/getting-started"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+  <a href="https://docs.expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/></a>
+  <a href="https://docs.flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/></a>
+  <a href="https://developer.apple.com/documentation/swiftui"><img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/></a>
+  <a href="https://developer.android.com/docs"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
+  <a href="https://developer.apple.com/documentation/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/></a>
 </p>
 
 **Web**
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/></a>
+  <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
 </p>
 
 **Backend & Database**
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <a href="https://docs.spring.io/spring-boot/index.html"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 </p>
 
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://kotlinlang.org/docs/home.html"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://www.swift.org/documentation/"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/></a>
 </p>
 
 **State, Networking & Data**
 
 <p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC"/>
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dio"/>
-  <img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge" alt="Hive"/>
-  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit"/>
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Room"/>
-  <img src="https://img.shields.io/badge/Alamofire-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Alamofire"/>
-  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData"/>
+  <a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/></a>
+  <a href="https://axios-http.com/docs/intro"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/></a>
+  <a href="https://tanstack.com/query/latest/docs/framework/react/overview"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/></a>
+  <a href="https://www.sqlite.org/docs.html"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+  <a href="https://bloclibrary.dev/"><img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC"/></a>
+  <a href="https://pub.dev/packages/dio"><img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dio"/></a>
+  <a href="https://docs.hivedb.dev/"><img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge" alt="Hive"/></a>
+  <a href="https://square.github.io/retrofit/"><img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit"/></a>
+  <a href="https://developer.android.com/training/data-storage/room"><img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Room"/></a>
+  <a href="https://github.com/Alamofire/Alamofire"><img src="https://img.shields.io/badge/Alamofire-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Alamofire"/></a>
+  <a href="https://developer.apple.com/documentation/swiftdata"><img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData"/></a>
 </p>
 
 **Tooling, DevOps & Security**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black" alt="Fastlane"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MobSF-444444?style=for-the-badge" alt="MobSF"/>
-  <img src="https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge" alt="Semgrep"/>
+  <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://docs.github.com/en/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="https://docs.fastlane.tools/"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black" alt="Fastlane"/></a>
+  <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://mobsf.github.io/docs/"><img src="https://img.shields.io/badge/MobSF-444444?style=for-the-badge" alt="MobSF"/></a>
+  <a href="https://semgrep.dev/docs/"><img src="https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge" alt="Semgrep"/></a>
 </p>
 
 ---
