@@ -16,7 +16,6 @@
   <a href="https://github.com/MaharajaKumar?tab=followers">
     <img src="https://img.shields.io/github/followers/MaharajaKumar?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MaharajaKumar&style=for-the-badge&label=Profile+views&color=blueviolet" alt="Profile views"/>
 </p>
 
 ---
@@ -57,6 +56,21 @@ My approach is simple: understand the problem, design a practical solution, and 
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
 </p>
 
+**Web**
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
 **Languages**
 
 <p>
@@ -64,6 +78,7 @@ My approach is simple: understand the problem, design a practical solution, and 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </p>
 
@@ -71,23 +86,27 @@ My approach is simple: understand the problem, design a practical solution, and 
 
 <p>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
-  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="RTK Query"/>
-  <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod"/>
-  <img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge&logo=hive&logoColor=white" alt="Hive"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC"/>
+  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dio"/>
+  <img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge" alt="Hive"/>
+  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Room"/>
+  <img src="https://img.shields.io/badge/Alamofire-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Alamofire"/>
+  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData"/>
 </p>
 
-**Security, DevOps & Tooling**
+**Tooling, DevOps & Security**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black" alt="Fastlane"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MobSF-Mobile_Security-444444?style=for-the-badge" alt="MobSF"/>
-  <img src="https://img.shields.io/badge/Semgrep-Code_Analysis-4B32C3?style=for-the-badge" alt="Semgrep"/>
+  <img src="https://img.shields.io/badge/MobSF-444444?style=for-the-badge" alt="MobSF"/>
+  <img src="https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge" alt="Semgrep"/>
 </p>
 
 ---
